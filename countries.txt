@@ -1,2 +1,4 @@
 singapore
 hongkong
+china
+malaysia
