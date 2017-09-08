@@ -2,4 +2,8 @@ apple
 orange
 kiwi
 papaya
+<<<<<<< HEAD
+=======
+missing title
+>>>>>>> master
 
