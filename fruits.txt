@@ -3,8 +3,7 @@ orange
 kiwi
 papaya
 grapes
-<<<<<<< HEAD
-=======
 missing title
->>>>>>> master
+testing
+
 
